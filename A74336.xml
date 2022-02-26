@@ -1,0 +1,166 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Act for the admitting of the purchaser of bishops lands to pay their whole purchase-moneys by VVeavers-Hall bills.</title>
+            <title>Laws, etc. 1649</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 3 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74336</idno>
+            <idno type="STC">Thomason E1060_59</idno>
+            <idno type="STC">ESTC R208685</idno>
+            <idno type="EEBO-CITATION">99867612</idno>
+            <idno type="PROQUEST">99867612</idno>
+            <idno type="VID">119931</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74336)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119931)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 157:E1060[59])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Act for the admitting of the purchaser of bishops lands to pay their whole purchase-moneys by VVeavers-Hall bills.</title>
+                  <title>Laws, etc. 1649</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>[2], 509-511, [i.e. 5] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Edward Husband, printer to the Parliament of England,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>On 4R: last word of first line of text: 'England'; first word of line below initial: 'there'; the last word of last full line of text: 'con-'.</note>
+                  <note>Order to print dated 28 August 1648; also issued as part of a through-paged folio set with a table for the entire set added.</note>
+                  <note>Ornament on t.p.; initial letter; text in black letter.</note>
+                  <note>Signatures: 4R² .</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church lands --  England --  Early works to 1800.</term>
+               <term>Church property --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:119931:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 22 -->
+            <argument>
+               <p>
+                  <date>August .28. 1649.</date> An Act prohibiting y<hi rend="sup">e</hi> importing of any wines <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>olle or silk from y<hi rend="sup">e</hi> Kingdome of France into y<hi rend="sup">e</hi> Com<g ref="char:cmbAbbrStroke">̄</g>on: Wealth of England or Ireland or any the Dominions there-vnto belonging.  vide voll. 8<hi rend="sup">th</hi> fol. 69. single sheete.</p>
+            </argument>
+            <pb facs="tcp:119931:2"/>
+            <!-- PDF PAGE 23 -->
+            <pb n="509" facs="tcp:119931:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 23 -->
+            <head>
+               <figure>
+                  <figDesc>blazon of the Commonwealth</figDesc>
+               </figure>
+            </head>
+            <head>AN ACT For the admitting of the Purchaſers of Biſhops Lands TO Pay their whole Purchaſe-Moneys by VVeavers-Hall Bills.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Parliament of <hi>England</hi> now aſſembled, finding upon due examination, that from the beginning of the ſitting of the Con<g ref="char:EOLhyphen"/>tractors for the ſale of Bi<g ref="char:EOLhyphen"/>ſhops Lands. to the Five and twentieth of <hi>July,</hi> One thouſand ſix hun<g ref="char:EOLhyphen"/>dred forty nine, excluſively there is paid and to be paid in ready money and Goldſmiths-hall Bills, upon the ſeveral Con<g ref="char:EOLhyphen"/>tracts
+<pb n="510" facs="tcp:119931:3"/>
+               <!-- PDF PAGE 24 -->
+for Biſhops Lands made by them with<g ref="char:EOLhyphen"/>in the time aforeſaid, the full ſum of Four hundred twenty three thouſand, ſeven hundred ſixty ſix pounds, fourteen ſhillings and ten pence: And being fully ſatisfied, That the ſaid ſum, together with the additional Secu<g ref="char:EOLhyphen"/>rity of the Excize in courſe (as it now ſtands charged) is a viſible and ſufficient Security to the Lenders of the firſt Four hundred thou<g ref="char:EOLhyphen"/>ſand pounds, for whatſoever ſum or ſums of Money can remain due unto them or any of them, together with the growing Intereſt due for the ſame. And being deeply ſenſible, how ſlowly the Biſhops Lands are now bought off, whereby a great Debt, with its growing In<g ref="char:EOLhyphen"/>tereſt and great Charge is continued upon the Commonwealth, in regard that the Purcha<g ref="char:EOLhyphen"/>ſers of the ſaid Lands are not admitted to pay their whole Purchaſe-Moneys by Weavers-Hall Bills, as is now moſt juſt and reaſonable: Therefore be it Enacted and Ordained, and it is hereby Enacted and Ordained by this preſent Parliament, That all perſons who have made, or ſhall make from and after the Twenty fourth day of <hi>July,</hi> One thouſand ſix hundred forty and nine incluſively, any Contract for Biſhops Lands, ſhall be admitted to pay all or any part of their Purchaſe-Moneys, due or to be due upon ſuch Contracts, either in ready Mo<g ref="char:EOLhyphen"/>ney, Goldſmiths-Hall Bills, or Weavers-Hall Bills, as well for the Four hundred thouſand pounds charged by Ordinance of the Thirteenth of <hi>May,</hi> One thouſand ſix hundred forty ſeven, as the Eighty four thouſand pounds charged by Ordinance of the Third of <hi>June,</hi> One thou<g ref="char:EOLhyphen"/>ſand ſix hundred forty ſeven, as the reſpective
+<pb n="511" facs="tcp:119931:3"/>
+               <!-- PDF PAGE 24 -->
+Purchaſers ſhall think fit: And the Truſtees, Contractors and Treaſurers for Biſhops Lands, and all other Officers and perſons whatſoever concerned herein, are required to take notice hereof, and to act accordingly.</p>
+         </div>
+         <div type="license">
+            <opener>
+               <dateline>
+                  <date>Die Martis, 28 Auguſti, 1649.</date>
+               </dateline>
+            </opener>
+            <p>ORdered by the Commons aſſembled in Par<g ref="char:EOLhyphen"/>liament, That this Act be forthwith printed and publiſhed.</p>
+            <closer>
+               <signed>Hen: Scobell, Cleric. Parliamenti.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>Edward Husband,</hi> Printer to the Parliament of <hi>England.</hi> 1649.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
